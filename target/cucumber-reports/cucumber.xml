@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="7.716" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Register User" name="Launch Browser" time="7.603">
+<system-out><![CDATA[
+Given Chrome Browser should be available....................................passed
+When Open chrome Browser....................................................passed
+And Enter Valid URL "http://automationexercise.com".........................passed
+And Redirect to the Homepage................................................passed
+Then Logo should be displayed...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
